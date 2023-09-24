@@ -1,0 +1,8 @@
+{
+    "title": "knowledgeable agent",
+    "project_name": "knowledgeable-agent",
+    "short_description": "This chatbot will answer your questions about the document provided.",
+    "inputs": ["text"],
+    "outputs": ["text"],
+    "metadata": {}
+}
